@@ -4,8 +4,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Escola XYZ</title>
-  <link rel="stylesheet" href="estilo.css">
+  <title>O Pequeno Mercado on</title>
+  <link rel="stylesheet" href="site.escolar.css">
 </head>
 
 <body>
